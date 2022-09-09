@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    min-height: 100vh;
+    width: 100%;
+    background-image: linear-gradient(rgba(64, 81, 149, 0.058),rgba(31, 71, 199, 0.4)),url(images/Banner.jpg);
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
